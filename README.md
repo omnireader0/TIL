@@ -4,7 +4,7 @@
 
 ### 목차
 
-- [Web](https://github.com/JuHyun419/TIL-TodayILearned#Web)
+- [Web](https://github.com/omnireader0/TIL#Web)
 
   
 
