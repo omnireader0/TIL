@@ -11,3 +11,4 @@
 ### Web
 
 - [(생활코딩) - html 요약](https://github.com/omnireader0/TIL/issues/1)
+- [(생활코딩) - CSS 요약](https://github.com/omnireader0/TIL/issues/2)
